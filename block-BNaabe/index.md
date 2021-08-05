@@ -15,7 +15,7 @@ Write code to
 - get realtive path of `index.html`
 - get absolute path of `index.html` using `path module` 
  
-#### Capture data on server
+#### Capture data on server.
 
 Q. Create a server using http
 - handle post method on '/' route
